@@ -2,7 +2,7 @@
  "content": [
   {
    "contest": "O campeão da crise da meia-idade",
-   "gameText": "A crise da meia-idade",
+   "gameText": "A crise de meia-idade",
    "id": "68683",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -37,8 +37,8 @@
    "x": true
   },
   {
-   "contest": "O campeão bomzão",
-   "gameText": "Bomzão",
+   "contest": "O campeão legal",
+   "gameText": "Legal",
    "id": "68692",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -64,8 +64,8 @@
    "x": false
   },
   {
-   "contest": "O campeão do meio-oeste",
-   "gameText": "O meio-oeste",
+   "contest": "O campeão do centro-oeste",
+   "gameText": "O centro-oeste",
    "id": "68699",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -82,8 +82,8 @@
    "x": false
   },
   {
-   "contest": "O campeão de manequim ",
-   "gameText": "Manequim ",
+   "contest": "O campeão dos bobos ",
+   "gameText": "Bobos ",
    "id": "68703",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -127,8 +127,8 @@
    "x": false
   },
   {
-   "contest": "O campeão de fazer uma cena ",
-   "gameText": "Fazendo uma cena ",
+   "contest": "O campeão de fazer cena ",
+   "gameText": "Fazer cena ",
    "id": "68723",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -154,8 +154,8 @@
    "x": true
   },
   {
-   "contest": "O campeão das coisas quentes",
-   "gameText": "Coisa quente",
+   "contest": "O campeão dos maiorais",
+   "gameText": "Maioral",
    "id": "68730",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -244,8 +244,8 @@
    "x": false
   },
   {
-   "contest": "O campeão da noite de sexta-feira",
-   "gameText":"Noite de sexta-feira",
+   "contest": "O campeão de sexta-feira à noite",
+   "gameText":"Sexta-feira à noite",
    "id": "68780",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -271,8 +271,8 @@
    "x": false
   },
   {
-   "contest": "O campeão da diversão saudável",
-   "gameText": "Diversão Saudável",
+   "contest": "O campeão da brincadeira saudável",
+   "gameText": "Brincadeira Saudável",
    "id": "68792",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -334,8 +334,8 @@
    "x": false
   },
   {
-   "contest": "O campeão dos gulosos",
-   "gameText": "Gulosos",
+   "contest": "O campeão gostosão",
+   "gameText": "Gostosão",
    "id": "69260",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -361,8 +361,8 @@
    "x": true
   },
   {
-   "contest": "O campeão dos irmãos",
-   "gameText": "Irmãos",
+   "contest": "O campeão dos manos",
+   "gameText": "Manos",
    "id": "69279",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -415,8 +415,8 @@
    "x": false
   },
   {
-   "contest": "O campeão do League of Legends",
-   "gameText": "League of Legends",
+   "contest": "O campeão de treino intensivo",
+   "gameText": "Treino intensivo",
    "id": "69348",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -451,8 +451,8 @@
    "x": true
   },
   {
-   "contest": "O campeão da perda",
-   "gameText": "Perdendo",
+   "contest": "O campeão de perder",
+   "gameText": "Perder",
    "id": "69482",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -479,7 +479,7 @@
   },
   {
    "contest": "O campeão em ficar de vela",
-   "gameText": "De vela ",
+   "gameText": "Ficar de vela ",
    "id": "69518",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -487,8 +487,8 @@
    "x": false
   },
   {
-   "contest": "O campeão de Paniquete",
-   "gameText": "Paniquete",
+   "contest": "O campeão do desleixo",
+   "gameText": "Desleixo",
    "id": "69522",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -514,8 +514,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Blefe",
-   "gameText":"Blefe",
+   "contest": "O Campeão dos parrudos",
+   "gameText":"Parrudo",
    "id": "69938",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -524,7 +524,7 @@
   },
   {
    "contest": "O campeão de ser podre",
-   "gameText": "Sendo podre",
+   "gameText": "Ser podre",
    "id": "69946",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -550,8 +550,8 @@
    "x": false
   },
   {
-   "contest": "O campeão do grito",
-   "gameText": "O grito',
+   "contest": "O campeão dos relaxados",
+   "gameText": "O relaxado',
    "id": "69961",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -595,8 +595,8 @@
    "x": true
   },
   {
-   "contest": "O campeão de trabalho.",
-   "gameText": "Trabalho.",
+   "contest": "O campeão em dar um jeitinho.",
+   "gameText": "Dar um jeitinho",
    "id": "70095",
    "includesPlayerName": false,
    "linkedPrompts": [],
